@@ -1,0 +1,25 @@
+{
+  "name": "estruct-backend",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/yess3rj/estruct-backend.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/yess3rj/estruct-backend/issues"
+  },
+  "homepage": "https://github.com/yess3rj/estruct-backend#readme",
+  "dependencies": {
+    "dotenv": "^16.0.3",
+    "mongoose": "^6.6.5"
+  }
+}
